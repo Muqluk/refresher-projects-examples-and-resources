@@ -5,7 +5,7 @@
 We will begin by spending the first 2 to 3 weeks in on Github.com, in Visual Studio and working with C#, going over familiar territory to ease you back in. [^1] As such, what follows is a the initial draft for my proposed _lesson plan_
 
 <details>
-  <summary>Documentation & Markdown</summary>
+  <summary>1. Documentation & Markdown</summary>
 
   * How to write documentation for your own code
   * Writing examples, walkthroughs & tutorials
@@ -13,14 +13,14 @@ We will begin by spending the first 2 to 3 weeks in on Github.com, in Visual Stu
   * Embedding both local and remotely sourced images as well as some select other assets into your markdown
   * Creating links to other Markdown docs & hyperlinks - locally & remote
 
-  I am confident that Markdown will only require a few hours to at most 2 days to attain a comfort level with using as it's simply an reduced form of HTML.  Also, within the first hour or two we will have begun to look at the Github.com website and the useful features and services available to us while documenting our findings - in, of course, markdown files within our repository.  _In fact_ as soon as 30 minutes in you will already have taken the first steps in creating and curating your own personal reference library.
+  <sup>_I am confident that Markdown will only require a few hours to at most 2 days to attain a comfort level with using as it's simply an reduced form of HTML.  Also, within the first hour or two we will have begun to look at the Github.com website and the useful features and services available to us while documenting our findings - in, of course, markdown files within our repository.  _In fact_ as soon as 30 minutes in you will already have taken the first steps in creating and curating your own personal reference library._</sup>
 
 </details>
 
-##### _Everything done will be required to have some reasonable level of documentation included in the pull request - as well as the pull request itself occasionally utilizing markdown._
+#### _*** From this point on everything done will be required to have some reasonable level of documentation included in the pull request - as well as the pull request itself occasionally utilizing markdown. ***_
 
 <details>
-  <summary>Significant effort on all things .git & github.com</summary>
+  <summary>2. Significant effort on all things .git & github.com</summary>
 
 Introduction to the resources provided at [github.com](https://github.com/)
 
@@ -51,7 +51,7 @@ Utilizing the .git cli to manage your repositories.
 </details>
 
 <details>
-  <summary>Unit Tests & Test-Driven-Development (TDD) with MSTest</summary>
+  <summary>3. Unit Tests & Test-Driven-Development (TDD) with MSTest</summary>
 
   * Test Types (most common being unit, integration, behavioural)
   * The Red-Green-Refactor-Repeat approach
