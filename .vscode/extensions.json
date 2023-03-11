@@ -1,0 +1,23 @@
+{
+  "recommendations": [
+    "maptz.regionfolder",
+    "editorconfig.editorconfig",
+    "naumovs.color-highlight",
+    "dbaeumer.vscode-eslint",
+    "peterschmalfeldt.explorer-exclude",
+    "shinotatwu-ds.file-tree-generator",
+    "donjayamanne.githistory",
+    "bierner.github-markdown-preview",
+    "eamodio.gitlens",
+    "jcmordan.mark-as-excluded",
+    "pkief.material-icon-theme",
+    "howardzuo.vscode-npm-dependency",
+    "zhuangtongfa.material-theme",
+    "codeandstuff.package-json-upgrade",
+    "johnpapa.vscode-peacock",
+    "zhucy.project-tree",
+    "richie5um2.vscode-sort-json",
+    "amodio.toggle-excluded-files",
+    "ms-vscode.vs-keybindings"
+  ]
+}
