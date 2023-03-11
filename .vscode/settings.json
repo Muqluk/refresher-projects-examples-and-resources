@@ -26,5 +26,8 @@
   },
   "peacock.color": "#6e1f99",
   "files.exclude": {
+    "**/src/.vs": true,
+    "**/.gitattributes": true,
+    "**/.gitignore": true
   }
 }
