@@ -58,7 +58,7 @@
   Additional features & services available elsewhere on [Github.com](https://github.com/) such as
   * [Github Pages](https://pages.github.com/) - 
   * [Github's codespaces](https://github.com/codespaces) - A tiered-subscription web-based IDE service powered by vsCode & hosted by Github - or as they put it: 
-    > A codespace is a development environment that's hosted in the cloud.`
+    > A codespace is a development environment that's hosted in the cloud.
 
   Utilizing the .git cli to manage your repositories.
   * branching & merging strategies
