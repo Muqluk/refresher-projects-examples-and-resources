@@ -28,6 +28,9 @@
   "files.exclude": {
     "**/src/.vs": true,
     "**/.gitattributes": true,
-    "**/.gitignore": true
+    "**/.gitignore": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/*.user": true
   }
 }
