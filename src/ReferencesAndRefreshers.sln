@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{9F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Intro To Winforms", "Intro To Winforms", "{EE6980AB-3BE1-43D5-A822-D6C57F6E698D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bind-control-data-to-list", "dotnet 7\winforms\examples\Binding Controls to Lists\bind-control-data-to-list.csproj", "{CA74F61B-A20F-46B1-A7B3-D683FDD222E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{91EBC679-0B69-4DD7-B703-96B6BC57FDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91EBC679-0B69-4DD7-B703-96B6BC57FDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91EBC679-0B69-4DD7-B703-96B6BC57FDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA74F61B-A20F-46B1-A7B3-D683FDD222E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA74F61B-A20F-46B1-A7B3-D683FDD222E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA74F61B-A20F-46B1-A7B3-D683FDD222E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA74F61B-A20F-46B1-A7B3-D683FDD222E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{CAE4CA45-2C94-4559-818B-A4F259846F0A} = {E9AE7712-15FA-4FD0-BAFD-CEE700E8A8ED}
 		{9FA5B0B1-74C2-4FB5-A20C-1385405BE077} = {CAE4CA45-2C94-4559-818B-A4F259846F0A}
 		{EE6980AB-3BE1-43D5-A822-D6C57F6E698D} = {9FA5B0B1-74C2-4FB5-A20C-1385405BE077}
+		{CA74F61B-A20F-46B1-A7B3-D683FDD222E5} = {EE6980AB-3BE1-43D5-A822-D6C57F6E698D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32CF4492-6736-4C05-8C01-2B272733A3C9}
